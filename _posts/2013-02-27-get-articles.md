@@ -1,13 +1,13 @@
 ---
-category: Users
-path: '/stuff/:id'
-title: 'Update a thing'
-type: 'PUT'
+category: Articles
+path: '/articles'
+title: 'Get Articles'
+type: 'GET'
 
 layout: nil
 ---
 
-This method allows the user to retrieve his stuff.
+This method allows the user to retrieve articles.
 
 ### Request
 
